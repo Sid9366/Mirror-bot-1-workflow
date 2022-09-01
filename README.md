@@ -1,10 +1,17 @@
-# MirrorBot137
+# mirrorbot-workflow
 
-**Important** - Read these points first
-- Original repo is https://github.com/lzzy12/python-aria-mirror-bot
-- I have collected some cool features from various repositories and merged them in one.
-- So, credits goes to original repo holder, not to me. I have just collected them.
-- This (or any custom) repo is not supported in official bot support group.
+First setup everything then push to your private Repository
+
+Then Fork this Repo
+
+Setup secrets in settings --> Secrets
+
+```
+GH_TOKEN :- Your github personal access token, from https://github.com/settings/tokens
+REPO :- Your Secret Repository, as in "<reponame>"
+GHUSER :- Your GitHub UserName
+GHMAIL :- You GitHub Email Address
+```
 
 ### What is this repo about?
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
