@@ -1,5 +1,4 @@
-name: Kaali-Linux
-
+name: Github_Action
 on:
     push:
     workflow_dispatch:
