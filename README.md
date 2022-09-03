@@ -7,10 +7,10 @@ Then Fork this Repo
 Setup secrets in settings --> Secrets
 
 ```
-GH_TOKEN :- Your github personal access token, from https://github.com/settings/tokens
-REPO :- Your Secret Repository, as in "<reponame>"
-GHUSER :- Your GitHub UserName
-GHMAIL :- You GitHub Email Address
+GIT_TOKEN :- Your github personal access token, from https://github.com/settings/tokens
+BOT_REPO  :- Your Secret Repository, as in "<github.com/username/reponame>"
+GIT_NAME  :- Your GitHub UserName
+GIT_EMAIL :- You GitHub Email Address
 ```
 
 ### What is this repo about?
